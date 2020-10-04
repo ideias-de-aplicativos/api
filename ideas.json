@@ -1,0 +1,2081 @@
+[
+  {
+    "id": 1,
+    "title": "Gridiota",
+    "subtitle": "Sistema de grid para front end personalizável",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 2,
+    "title": "Colorful Stripes",
+    "subtitle": "Mixin de sass para background em faixas",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 3,
+    "title": "Vagas para front",
+    "subtitle": "Site para publicação de vagas para desenvolvedores front end",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 4,
+    "title": "Que front sou eu",
+    "subtitle": "Site para perguntas e respostas sobre front end",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 5,
+    "title": "Guest posts",
+    "subtitle": "Site para blogueiros que procuram blogs para escrever guest posts",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 6,
+    "title": "Schema for Bloggers",
+    "subtitle": "Site gerador de schema.org para blogs",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 7,
+    "title": "Lewis",
+    "subtitle": "Template jekyll com page speed 100%",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 8,
+    "title": "Mr Hyde",
+    "subtitle": "Página de admin para jekyll",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 9,
+    "title": "Ideias Grátis",
+    "subtitle": "Site para compartilhamento de ideias gratuitas",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 10,
+    "title": "RSS Git",
+    "subtitle": "Histórico do git em formato rss",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 11,
+    "title": "Pac Maps",
+    "subtitle": "Jogo 8 bits dentro do google maps",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 12,
+    "title": "Bombermaps",
+    "subtitle": "Jogo bomberman-like dentro do google maps",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 13,
+    "title": "VueJS Styleguide",
+    "subtitle": "Styleguide prático e em português de vuejs",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 14,
+    "title": "Links da semana",
+    "subtitle": "Aplicativo para gerar links da semana",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 15,
+    "title": "Markpad",
+    "subtitle": "Versão do site dontpad.com com suporte a edição markdown",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 16,
+    "title": "GitHub Icons",
+    "subtitle": "Fonte de ícones para ser usada no github",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 17,
+    "title": "Boytcott",
+    "subtitle": "Site para gerenciar campanhas de boicote",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 18,
+    "title": "Strool",
+    "subtitle": "Site para manipulação de tempo de legendas .srt",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 19,
+    "title": "Pokenem",
+    "subtitle": "Jogo pokemon-like para preparação para o enem",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 20,
+    "title": "Capture",
+    "subtitle": "Mapa com fotos da região e inspiração para explorar o local",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 21,
+    "title": "Bem casados",
+    "subtitle": "Crowdfunding para festas de casamento",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 22,
+    "title": "24 horas de desconto",
+    "subtitle": "Site com 24 ofertas que só duram 24 horas",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 23,
+    "title": "Sex map",
+    "subtitle": "Site com mapa das pessoas que estão fazendo sexo por perto",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 24,
+    "title": "Sing me a song",
+    "subtitle": "Site de recomendação de música para desconhecidos",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 25,
+    "title": "Dicpedia",
+    "subtitle": "Site para criação colaborativa de dicionários",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 26,
+    "title": "Rachadinha",
+    "subtitle": "Aplicativo para controle de dívidas entre amigos",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 27,
+    "title": "Go to Codepen",
+    "subtitle": "Pacote nodejs para subir código para code pen",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 28,
+    "title": "Alugar ou Comprar",
+    "subtitle": "Responda um quizz e saiba se é melhor alugar um imóvel ou comprar",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 29,
+    "title": "Alma leve",
+    "subtitle": "Aplicativo para desabafar com um desconhecido",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 30,
+    "title": "Valendo",
+    "subtitle": "Plugin para marcação de tempo no chrome",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 31,
+    "title": "Is it a good photo",
+    "subtitle": "Site de curadoria de fotos isitagoodphoto.com",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 32,
+    "title": "Será que combina",
+    "subtitle": "Aplicativo para combinar looks",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 33,
+    "title": "Moraria Aqui",
+    "subtitle": "Plugin para compartilhamento de lista de imóveis",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 34,
+    "title": "Alerta Placar",
+    "subtitle": "Aplicativo que avisa quando sai um gol",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 35,
+    "title": "Pão Quentinho",
+    "subtitle": "Aplicativo qua avisa quando o pão acabou de ficar pronto",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 36,
+    "title": "Como me sinto",
+    "subtitle": "Aplicativo para registrar mudanças de humor do usuário",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 37,
+    "title": "Pet Doctor",
+    "subtitle": "Aplicativo para acompanhamento da saúde de pets",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 38,
+    "title": "Look todo dia",
+    "subtitle": "Nova aba do chrome com look do dia",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 39,
+    "title": "Tinder para gordinhos",
+    "subtitle": "Uma versão do tinder só para usuários gordinhos",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 40,
+    "title": "15 conto",
+    "subtitle": "Encontre onde tem lanches até 15 reais perto de você",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 41,
+    "title": "Ofende mas nem tanto",
+    "subtitle": "Aplicativo/site para ofender um estranho gratuitamente",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 42,
+    "title": "Dev Papi 3",
+    "subtitle": "Aplicativo para gerar gráfico tipo \"papi 3\" para competências em tecnologia front-end",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 43,
+    "title": "Horóscopo do bem",
+    "subtitle": "Site app agregador de horóscopos no qual o usuário escolhe só receber coisas boas",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 44,
+    "title": "Somos Mães",
+    "subtitle": "Site de financiamento coletivo de extensão para licença maternidade",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 45,
+    "title": "Share a gif",
+    "subtitle": "Uma rede social para pessoas guardarem links de gifs com descrição",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 46,
+    "title": "Lembramor",
+    "subtitle": "Um aplicativo para não te deixar esquecer coisas que você prometeu para sua namorada",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 47,
+    "title": "Tech mashup",
+    "subtitle": "Um site que propõe mashups entre duas startups de tecnologia",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 48,
+    "title": "Quem ve cara",
+    "subtitle": "Um site estilo tinder mas sem fotos, somente com descrições de personalidade baseada em MBTI",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 49,
+    "title": "Combina MBTI",
+    "subtitle": "Site que testa a combinações amorosas entre os 16 diferentes tipos de personalidades",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 50,
+    "title": "Sonhando Lúcido",
+    "subtitle": "Aplicativo que ajuda a ter sonhos lúcidos",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 51,
+    "title": "Show My Support",
+    "subtitle": "Aplicativo em que o usuário suporta algumas causas publicamente e mostra quem também suporta as mesmas causas por perto",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 52,
+    "title": "TCC Fácil",
+    "subtitle": "Site que usa o gitbook para facilitar a criação de trabalhos acadêmicos no padrão abnt",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 53,
+    "title": "Git Resume",
+    "subtitle": "Site para criação de currículos em formato de repositório do github",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 54,
+    "title": "Receba cursos",
+    "subtitle": "Site/Aplicativo para newsletter de cursos gratuitos",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 55,
+    "title": "O jogo da vida adulta",
+    "subtitle": "Aplicativo que gamifica a vida de quem começou recentemente a morar sozinho",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 56,
+    "title": "Social Imagery",
+    "subtitle": "Um site que insere uma faixa \"compartilhe\" automaticamente nas imagens de exibição de um post pro facebook",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 57,
+    "title": "Porn Repeat",
+    "subtitle": "Youtube repeat para xvideos e outros sites pornos",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 58,
+    "title": "Se cuida, homem",
+    "subtitle": "Aplicativo para marcar corte de cabelo e serviços estéticos para homens",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 59,
+    "title": "Paga meu mico",
+    "subtitle": "Crowdfunding para financiamento de micos",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 60,
+    "title": "Commit challenge",
+    "subtitle": "Desafie um amigo seu no github, cada commit dele você paga uma prenda",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 61,
+    "title": "Github poster",
+    "subtitle": "Um aplicativo que se conecta no github e cria um poster customizado do perfil do usuário",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 62,
+    "title": "Review my code",
+    "subtitle": "Organização do github que recebe mentions com seu nome e monta lista de issues para revisão de inglês",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 63,
+    "title": "FaceGit",
+    "subtitle": "Receba notificações do seu github nas notificações do seu facebook",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 64,
+    "title": "Match Legal",
+    "subtitle": "Tinder-like para projetos de lei",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 65,
+    "title": "Repositório do saber",
+    "subtitle": "Template jekyll para repositório de trabalhos acadêmicos",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 66,
+    "title": "Starhub",
+    "subtitle": "Um site estilo tinder like para repositórios do github usando recurso de dar \"star\" no repositório",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 67,
+    "title": "Democratize",
+    "subtitle": "aplicativo para gerenciar votações que viram regras para grupos de pessoas",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 68,
+    "title": "Filmz",
+    "subtitle": "aplicativo que descobre interseções entre filmes não vistos por N usuários diferentes",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 69,
+    "title": "Legisle",
+    "subtitle": "Um aplicativo de crowdfunding para elaboração de projetos de lei",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 70,
+    "title": "Escolhe nomes",
+    "subtitle": "Responda um quizz e receba sugestões de nomes para seu filho",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 71,
+    "title": "Tem gente",
+    "subtitle": "Serviço de push notifications para avisar quando o banheiro tá disponível e quem é o próximo interessado em usar",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 72,
+    "title": "Ideia boa",
+    "subtitle": "Newsletter com ideias de post baseadas em perfil do usuário",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 73,
+    "title": "Pomodoro music",
+    "subtitle": "site com listas de músicas que duram 25 minutos cada lista",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 74,
+    "title": "More than match",
+    "subtitle": "aplicativo em que casais respondem perguntas sobre relacionamento e recebem dicas baseadas em índice de qualidade do relacionamento",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 75,
+    "title": "Time2Pay",
+    "subtitle": "Converta preços de mercadorias online em tempo que você gastará para pagá-las",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 76,
+    "title": "Tinderfy",
+    "subtitle": "Transforme qualquer enquete em uma votação SIM ou NÃO estilo tinder",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 77,
+    "title": "Monitor Polar",
+    "subtitle": "Relógio monitor de oscilações (mania/depressão) para portadores de bipolaridade",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 78,
+    "title": "Slack bot nutricional",
+    "subtitle": "Slackbot que avisa para comer uma vez a cada 3 horas e gerencia a nutrição diária do usuário",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 79,
+    "title": "Onde vamos almoçar hoje",
+    "subtitle": "Aplicativo que manda uma enquete meia hora antes da hora do almoço para um grupo de pessoas",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 80,
+    "title": "Delegacia mais próxima",
+    "subtitle": "Encontre a delegacia mais próxima e veja classificação dos usuários para tempo de atendimento",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 81,
+    "title": "Idéia 10",
+    "subtitle": "Cadastre seu site ou negócio online, de 10 ideias para outra pessoa e receba 10 ideias de outra pessoa",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 82,
+    "title": "Astronever",
+    "subtitle": "Extensão do chrome que esconde matérias sobre signos",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 83,
+    "title": "Link Builders",
+    "subtitle": "Plataforma para apoio a coletivos de blogs, com sistema de pontuação para atividades de link building",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 84,
+    "title": "ThinkBefore",
+    "subtitle": "Aplicativo para celular que te faz perguntas antes de uma compra para verificar se vc está comprando algo que precisa",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 85,
+    "title": "Gorjeta social",
+    "subtitle": "Aplicativo para bares em que cliente decide dividir parte da taxa de serviço para instituições filantrópicas",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 86,
+    "title": "Introvert friendly",
+    "subtitle": "Lista online colaborativa de locais amigáveis para pessoas introvertidas",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 87,
+    "title": "GitHub Bio Generator",
+    "subtitle": "gerador de bio para github baseada no perfil do usuário",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 88,
+    "title": "Receita de Chocolate",
+    "subtitle": "site listando apenas receita com chocolate de diversas fontes possíveis",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 89,
+    "title": "Vampeta não",
+    "subtitle": "Plugin do chrome que quando ativado troca facebook.com por uma página pedindo para que seu amigo não hackeie seu facebook",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 90,
+    "title": "Dontnote",
+    "subtitle": "Um plugin para deixar o dontpad.com mais parecido com o evernote",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 91,
+    "title": "Gitflix",
+    "subtitle": "Netflix de tutoriais de desenvolvimento de software",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 92,
+    "title": "Não quero fazer amigos",
+    "subtitle": "Plugin do chrome que remove as opções de amigos sugeridos das redes sociais mais famosas",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 93,
+    "title": "Checkpoint",
+    "subtitle": "Aplicativo mobile para alarmes que toca quando se chega em um ponto via GPS",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 94,
+    "title": "Slidegram",
+    "subtitle": "Site/addon para criar e compartilhar slideshows com fotos do instagram",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 95,
+    "title": "DR Online",
+    "subtitle": "Aplicativo para medir saúde do relacionamento de um casal, instalado para ambos, verifica atividades/sentimentos e sugere atitude",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 96,
+    "title": "Life Quest",
+    "subtitle": "Jogo estilo scroll up (Dash Quest) mas com roteiro baseado no Jogo da Vida",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 97,
+    "title": "Mobile Mental",
+    "subtitle": "Site para transformar qualquer mapa mental em uma página mobile",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 98,
+    "title": "BigBen",
+    "subtitle": "Aplicativo de pontualidade, cadastre seus desafios de pontualidade e acompanhe",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 99,
+    "title": "Vereatinder",
+    "subtitle": "Um tinder para candidatos a vereador e prefeito: onde o match é o voto.",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 100,
+    "title": "Carteirinha",
+    "subtitle": "Aplicativo para armazenar informações de cartões magnéticos (crédito, débito, cpf, plano de saúde)",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 101,
+    "title": "Reclamenos",
+    "subtitle": "Aplicativo gerenciador de hábitos ruins",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 102,
+    "title": "Fritadeira a ar",
+    "subtitle": "Aplicativo de receitas para fritadeira a ar, acompanha e avisa tempo de cozimento e sugere receitas por ingredientes",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 103,
+    "title": "Be a Local",
+    "subtitle": "Aplicativo para compartilhar dicas sobre como usar sua cidade perto do local onde você está",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 104,
+    "title": "Meu primeiro game",
+    "subtitle": "Repositório para orientar desenvolvedores que querem criar seu primeiro jogo",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 105,
+    "title": "Manifesta",
+    "subtitle": "Aplicativo que permite saber onde e porquê estão ocorrendo manifestos populares",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 106,
+    "title": "Muro Online",
+    "subtitle": "Aponte celular para muro de candidato e saiba dados sobre ele, antes das eleições",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 107,
+    "title": "Tá barato na madruga",
+    "subtitle": "Aplicativo com ofertas válidas apenas durante a madrugada",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 108,
+    "title": "Custom Dev Stickers",
+    "subtitle": "Repositório para desenvolvedores fazerem seus próprios stickers",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 109,
+    "title": "Coruja Vigia",
+    "subtitle": "Push notificação passagens aéreas de madrugada",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 110,
+    "title": "Camisetinder",
+    "subtitle": "Tinder like para estampas de camisetas",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 111,
+    "title": "Histórido de bioimpedância",
+    "subtitle": "Aplicativo para registrar histórico pessoal de medição em balança de bioimpedância",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 112,
+    "title": "Awesome repository",
+    "subtitle": "Repositório com static man para criar repositórios awesome",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 113,
+    "title": "Renovômetro",
+    "subtitle": "Gráficos sobre índice de renovação política de cidades/estados brasileiros",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 114,
+    "title": "Devo ou não trancar",
+    "subtitle": "Responda perguntas e descubra se compensa ou não trancar a faculdade",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 115,
+    "title": "Telegram developers groups",
+    "subtitle": "Bot para Telegram para concentrar grupos de Desenvolvimento no Telegram.",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 116,
+    "title": "Mapa da dengue",
+    "subtitle": "App para mapear/listar casos/focos de dengue.",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 117,
+    "title": "Quanto custa",
+    "subtitle": "Site/app com informações do tipo: Quanto custa cada vez que se abre a geladeira? Quanto custa ligar o carro?",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 118,
+    "title": "Awesome 1 ano de favoritos",
+    "subtitle": "Assine e Receba 1 ano de favoritos de profissionais da sua área. Exemplo: 1 ano de links de front end pleno",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 119,
+    "title": "Desenvolvedores Progressistas",
+    "subtitle": "Um repositório github com um manifesto e uma badge para indicar programadores progressistas politicamente",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 120,
+    "title": "Conta passos",
+    "subtitle": "Aplicativo para fazer um planejamento de lugares para ir e caminhar tantos passos ao dia",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 121,
+    "title": "Só spoilers",
+    "subtitle": "Site com lista de spoilers aleatórios que podem ou não ser verdadeiros",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 122,
+    "title": "i18n commits",
+    "subtitle": "Ferramenta de linha de comando para traduzir commits pushados para outra língua + plugin chrome para ver o commit na sua língua",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 123,
+    "title": "Plano de governo da própria vida",
+    "subtitle": "Site em que usuário recebe dicas de como organizar sua própria vida como um plano de governo",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 124,
+    "title": "Personadevs",
+    "subtitle": "Site com lista de projetos GitHub pela personalidade do dono do repositório + badge como essa",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 125,
+    "title": "Rapidinho",
+    "subtitle": "Repositório de listagem de contribuições rápidas e não urgentes para o github",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 126,
+    "title": "Prerender AMP",
+    "subtitle": "um serviço de prerenderização que mantém scripts amp",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 127,
+    "title": "Crie senhas",
+    "subtitle": "Site com lista de serviços comuns na internet e seus padrões de senha que permitam ao usuário criar uma senha adequada a todos os serviços de uma vez",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 128,
+    "title": "Fique atento",
+    "subtitle": "Aplicativo de celular que mostra % de chance de ser assaltado por onde o usuário anda",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 129,
+    "title": "Zen to Done This",
+    "subtitle": "Aplicativo para registrar tarefas mais importantes do dia e da semana, estilo zen to done",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 130,
+    "title": "Fatobook",
+    "subtitle": "Plugin chrome para dizer que uma notícia no facebook é mentira",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 131,
+    "title": "Tem num blog",
+    "subtitle": "Plugin chrome que avisa nas lojas online quando um item já apareceu em algum post de blog",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 132,
+    "title": "Wiki2Gitbook",
+    "subtitle": "Conversor de gitbook para wiki do github e de wiki do github para gitbook",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 133,
+    "title": "Github compare export",
+    "subtitle": "botão para exportar resultado de compare do github para ser colado em outros lugares como o Jira.",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 134,
+    "title": "Sampa trunfo",
+    "subtitle": "Super trunfo de lugares para se visitar na cidade de São Paulo",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 135,
+    "title": "Check my readme",
+    "subtitle": "Usuário do github que recebe requisições de teste de readme, verificando propriedades básicas e pedindo nota para outros usuários",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 136,
+    "title": "Tenho que ir",
+    "subtitle": "Aplicativo que sugere ao usuário quanto tempo depois do início de um evento social é seguro ele ir embora sem sofrer reprovação",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 137,
+    "title": "Respira",
+    "subtitle": "Plugin para WordPress e/ou Chrome que faz highlight de ritmo de texto",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 138,
+    "title": "Canivetejs",
+    "subtitle": "Coleção pública de funções úteis para js",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 139,
+    "title": "Video on Readme",
+    "subtitle": "Plugin chrome que permite visualização de vídeos em arquivos markdown do github",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 140,
+    "title": "Homologue.me",
+    "subtitle": "Plataforma para organização homologação manual de sistemas web",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 141,
+    "title": "Tem vaga aqui",
+    "subtitle": "Aplicativo que avisa quando uma empresa pela qual você passou perto está contratando",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 142,
+    "title": "Mock Interview",
+    "subtitle": "Rede social para simulação de entrevistas com recrutadores estrangeiros",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 143,
+    "title": "Zero clik news",
+    "subtitle": "Plugin que exibe um resumo de noticias logo abaixo da chamada da noticia evitando cliques por curiosidade",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 144,
+    "title": "Money Reader",
+    "subtitle": "Aplicativo de realidade aumentada que converte moedas quando a câmera é apontada para um preço",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 145,
+    "title": "Playlists Anti consumismo",
+    "subtitle": "Aplicativo com lista de músicas que desestimulam a compra por impulso para ouvir ao entrar em magazines",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 146,
+    "title": "SP Home Office",
+    "subtitle": "Aplicativo com lista de lugares para fazer home office em SP",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 147,
+    "title": "Sneaker Assistant",
+    "subtitle": "Aplicativo para registrar quantos kilômetros já foram caminhados com cada tênis do usuário",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 148,
+    "title": "You could use ES6",
+    "subtitle": "Organização do github que recebe mentions com seu nome e monta lista com trechos de codigo javascript que poderia ser escrito em ES6",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 149,
+    "title": "Travel By blogs",
+    "subtitle": "Aplicativo de coloca posts de blogs com dicas de viagem no mapa",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 150,
+    "title": "501 ideias gratuitas",
+    "subtitle": "Site com todas essas ideias em inglês e português e com missão de chegar em 501 ideias gratuitas",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 151,
+    "title": "Think different",
+    "subtitle": "Extensão para navegador que te mostra itens da timeline de pessoas que pensam diferente de você na sua timeline",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 152,
+    "title": "Pokekarma",
+    "subtitle": "Linha de comando javascript que organiza testes do karmajs por nomes de pokemons",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 153,
+    "title": "1000 Poster",
+    "subtitle": "Aplicativo para listar/categorizar/procurar pelos 1000 posteres em alta resolucao",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 154,
+    "title": "Compro na volta",
+    "subtitle": "Aplicativo em que o usuário cadastra coisas que teve vontade de comprar e recebe um aviso em X tempo perguntando se ainda quer comprar",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 155,
+    "title": "Verifica",
+    "subtitle": "aplicativo que permite ao usuario quando entrar em um espaço público ver o historico de gastos píblicos e manutenção recente desse espaço",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 156,
+    "title": "Nomes de ruas",
+    "subtitle": "Aplicativo que lista o nome das ruas de SP. Quem cada rua homenageia, quando recebeu esse nome",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 157,
+    "title": "Chef Salgados",
+    "subtitle": "Aplicativo para listar as melhores coxinhas e pastéis de SP classificados por: cremosidade, temperatura, densidade do recheio, acompanhamentos disponveis, textura e sabor.",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 158,
+    "title": "Evite conhecidos",
+    "subtitle": "Aplicativo que te mostra a chance de encontrar conhecidos nos lugares em que você vai",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 159,
+    "title": "Ocultador de modinhas",
+    "subtitle": "Extensão para navegador que esconde posts de modinha nas redes sociais, como o 9 verdades e 1 mentira.",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 160,
+    "title": "Caixinha",
+    "subtitle": "Aplicativo para celular que notifica quando um rendimento de renda fixa (incluindo poupança) entra na conta do usuario",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 161,
+    "title": "Bombermon",
+    "subtitle": "Clone de bomberman com os personagens e caracteristicas dos pokemóns",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 162,
+    "title": "Git Game",
+    "subtitle": "Joguinho em que o mundo é formado pelas contribuicoes do github, areas verdes sao andaveis e brancas sao armadilhas, personagem tem que chegar do lado direito",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 163,
+    "title": "Caçadores de falácias",
+    "subtitle": "Extensão de navegador que mostra falácias presentes em conteúdo online",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 164,
+    "title": "Buzzfeedfy",
+    "subtitle": "Transforme textos longos em listas de itens, cada item tendo 1 título, 1 imagem principal, 1 parágrafo aps imagem e resto do texto",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 165,
+    "title": "Jogo da falácia",
+    "subtitle": "Um quizz que apresenta trechos de textos jornalisticos e pergunta ao usuario qual falacia esta sendo apresentada no trecho",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 166,
+    "title": "Cata palavras",
+    "subtitle": "Jogo online que te dá um grupo limitado de palavras e te pede para formar uma frase. Similar a montar frases com imas de geladeira",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 167,
+    "title": "State fighters",
+    "subtitle": "Clone de street figther em que os lutadores sao os chefes de Estado de vários países",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 168,
+    "title": "Me chame de",
+    "subtitle": "site em que o usuario responde algumas perguntas para saber se pode chamar alguem de determinado adjetivo como \"comunista\", \"fascista\", \"neo-liberal\", \"racista\".",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 169,
+    "title": "1 deputado por dia",
+    "subtitle": "Aplicativo que mostra dados de um deputado por dia",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 170,
+    "title": "Didie",
+    "subtitle": "Chat em que usuários precisam se comunicar com letras de musica",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 171,
+    "title": "O que meu ídolo faria",
+    "subtitle": "Aplicativo em que usuário diz uma situação que está passando e te mostra o que alguém famoso fez em situacao similar",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 172,
+    "title": "Me lembre quando",
+    "subtitle": "Aplicativo que permite cadastrar todos contextuais do tipo: lembre-me de X quando eu estiver no lugar Y por N tempo, ou lembre-me de X sempre que a pessoa Y me ligar",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 173,
+    "title": "Share my notes",
+    "subtitle": "Diário online em que usuários pode decidir por compartilhar parágrafos de seu diario",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 174,
+    "title": "Regime mental",
+    "subtitle": "Plugin que conta quantas informações foram vistas pelo usuário nas redes sociais e cria um regime para controlar essa frequência",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 175,
+    "title": "Você tá aí",
+    "subtitle": "Plugin do chrome que te pergunta a cada X de tempo: \"Valeu a pena passar X de tempo no site Y? Sim x Não\"",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 176,
+    "title": "TFM em casa",
+    "subtitle": "Aplicativo para simular um TFM (treinamento fsico militar)",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 177,
+    "title": "Amigos de frete",
+    "subtitle": "Site para pessoas fazerem compras em conjunto com a intenção de atingir valores mínimos de frete grátis",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 178,
+    "title": "Pela metragem",
+    "subtitle": "Site que lista os filmes do Netflix de acordo com a sua duração",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 179,
+    "title": "Galo Alarme",
+    "subtitle": "Aplicativo de alarme que acorda o usuário na hora do nascer do sol",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 180,
+    "title": "Carreira dev",
+    "subtitle": "Aplicativo para ajudar no processo seletivo de dev. Cada habilidade de nova contratacao e dividida entre \"Imprescindível\", \"Desejavel\", \"Bonus\".",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 181,
+    "title": "Before 8am",
+    "subtitle": "Aplicativo que lista 8 coisas para fazer logo pela manhã",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 182,
+    "title": "Pedigree",
+    "subtitle": "Um site para ajudar a dar nomes para cachorros. Imagens aqui",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 183,
+    "title": "Fast car",
+    "subtitle": "Rede social para encontrar pessoas próximas que só funciona quando se está em movimento rápido (em um carro, por exemplo)",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 184,
+    "title": "Vai mais devagar",
+    "subtitle": "Aplicativo que faz celular vibrar no bolso em determinadas velocidades",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 185,
+    "title": "Wallpaper for ads",
+    "subtitle": "Site em que voce pode vender para empresas o direito de escolher seu papel de parede",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 186,
+    "title": "Dont push the button",
+    "subtitle": "Página com um botão com texto configurável. Te diz quanto tempo vc nao clica no botao e qual seu recorde.",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 187,
+    "title": "Dev stuff or pokemon",
+    "subtitle": "Lista com nomes de pokemóns e tecnologias de desenvolvimento: Advinhe qual é qual.",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 188,
+    "title": "O Grande Contador",
+    "subtitle": "Aplicativo para escrever um numero por vez de forma sequencial",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 189,
+    "title": "Auxiliar de recomendação",
+    "subtitle": "Um quizz que te ajuda a escrever uma boa recomendacao para um colega de trabalho no linkedin",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 190,
+    "title": "Talentinder",
+    "subtitle": "Um app com vagas internas de uma empresa disponibilizado para que seus funcionários tentem dar match nas vagas de acordo com critérios objetivos",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 191,
+    "title": "No more infinite scroll",
+    "subtitle": "Um plugin que mostra quais sites estao usando infinite-scroll e oferece versao sem essa feature",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 192,
+    "title": "Git tomato",
+    "subtitle": "Programa com 3 comandos git: git tomato-timer para contar um pomodoro, git tomato-commit para commitar com 🍅 e git tomato-count para contar quantos pomodoros uma tarefa levou",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 193,
+    "title": "Gikovate",
+    "subtitle": "um aplicativo que faz perguntas a duas pessoas de um casal para entender a perspectiva doador/recebedor de cada um e em seguida compara as respostas e sugere melhorias para tornar o relacionamento equilibrado",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 194,
+    "title": "Pomodoro Lamp",
+    "subtitle": "Aplicativo de pomodoro para lampada inteligente",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 195,
+    "title": "Doa",
+    "subtitle": "Plugin chrome que troca preço de produtos por quantas cestas básicas poderiam ser compradas com valor e indica instituições pra doação",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 196,
+    "title": "Commit light",
+    "subtitle": "Aplicativo para lampada inteligente que faz a luz brilhar quando usuario faz um commit",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 197,
+    "title": "Noelfunding",
+    "subtitle": "Crowdfunding para financiamento de presentes de natal para crianças carentes",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 198,
+    "title": "Site filters",
+    "subtitle": "Aplique filtros do instagram em páginas da web",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 199,
+    "title": "Somente texto",
+    "subtitle": "Bookmarklet que gera uma visualizacao somente texto de uma pagina",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 200,
+    "title": "Ajudante SEO",
+    "subtitle": "Bookmarklet que verifica característica de SEO de uma pagina: imagem sem alt, titulo, meta description, etc",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 201,
+    "title": "Zapshare",
+    "subtitle": "Bookmarklet que envia um link para um contato no WhatsApp",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 202,
+    "title": "Clicou",
+    "subtitle": "Bookmarklet que conta quantas vezes você clicou no Bookmarklet",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 203,
+    "title": "Será mesmo",
+    "subtitle": "Bookmarklet que pesquisa título da pagina em sites de checagem de fatos",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 204,
+    "title": "Bota na tela",
+    "subtitle": "Bookmarklet que busca video sobre o título da página",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 205,
+    "title": "Miau",
+    "subtitle": "Bookmarklet que troca imagens do site por fotos de gatinhos",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 206,
+    "title": "A wild pokemon appears",
+    "subtitle": "Bookmarklet que abre uma janela te permitindo tentar capturar um pokemon",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 207,
+    "title": "Verificador de tamanhos de imagens",
+    "subtitle": "Bookmarklet que revela as imagens com tamanho bom pra download em uma página",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 208,
+    "title": "Espera um pouco",
+    "subtitle": "Bookmarklet que conta regressivamente de 10 a 0",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 209,
+    "title": "Respect my AdBlocker",
+    "subtitle": "Bookmarklet que fecha popup de bloqueio do adblocker",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 210,
+    "title": "Sorte no rango",
+    "subtitle": "Bookmarklet que sorteia um restaurante pra almoçar",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 211,
+    "title": "Só dando uma olhadinha",
+    "subtitle": "Bookmarklet que deleta botões de comprar nas paginas",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 212,
+    "title": "Histórico de edição",
+    "subtitle": "Bookmarklet que conta quanto tempo faz que a página foi alterada",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 213,
+    "title": "Random Website",
+    "subtitle": "Bookmarklet que te redireciona para um site aleatório",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 214,
+    "title": "Altgram",
+    "subtitle": "Bookmarklet que troca as fotos do instagram pelo texto de descrição delas",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 215,
+    "title": "Ritmo de leitura",
+    "subtitle": "Bookmarklet que revela o ritmo de leitura de um texto",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 216,
+    "title": "Comprador",
+    "subtitle": "Bookmarklet que abre o mesmo produto em outros sites",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 217,
+    "title": "Câmbio Fácil",
+    "subtitle": "Bookmarklet que converte moeda",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 218,
+    "title": "Regressiva para férias",
+    "subtitle": "Bookmarklet que conta os dias para suas ferias",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 219,
+    "title": "Social style",
+    "subtitle": "Bookmarklet que altera aparencia de rede social / troca cores do facebook",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 220,
+    "title": "Pedra, papel, tesoura",
+    "subtitle": "Bookmarklet que joga pedra/papel/tesoura",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 221,
+    "title": "Cara ou coroa",
+    "subtitle": "Bookmarklet que joga cara ou coroa",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 222,
+    "title": "Em cartaz",
+    "subtitle": "Bookmarklet que abre páginas dos seus cinemas preferidos",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 223,
+    "title": "John Doe Generator",
+    "subtitle": "Bookmarklet que gera dados de uma pessoa falsa",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 224,
+    "title": "Tamanho da fonte",
+    "subtitle": "Bookmarklet que aumenta/diminui fonte do texto",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 225,
+    "title": "Food Maps",
+    "subtitle": "Aplicativo que te mostra os novos lugares para comer perto do trabalho",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 226,
+    "title": "Pronúncia Certa",
+    "subtitle": "Site com aúdio da pronúncia correta do nome de pessoas e palavras famosas",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 227,
+    "title": "Bancas",
+    "subtitle": "Aplicativo para reservar revistas em bancas de jornal do centro de SP",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 228,
+    "title": "SchemaPress",
+    "subtitle": "Criar um plugin WordPress com formatos de posts customizados baseados em Schema.org",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 229,
+    "title": "Site chamado Reclame Ali",
+    "subtitle": "Você entra, diz qual seu problema e ele te redireciona pro lugar certo pra fazer a reclamação",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 230,
+    "title": "Site chamado Recomende Aqui",
+    "subtitle": "Você entra, responde algumas perguntas e ele te ajuda a escrever uma recomendação do linkedin",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  },
+  {
+    "id": 231,
+    "title": "Manifesto NaN Developer",
+    "subtitle": "Um site com o manifesto \"Not A Ninja Developer\" sobre ser desenvolvedor e manter o equilíbrio mental",
+    "description": null,
+    "tags": null,
+    "complexity": null,
+    "status": "published"
+  }
+]
